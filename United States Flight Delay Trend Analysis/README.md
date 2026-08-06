@@ -61,9 +61,13 @@ An interactive Tableau dashboard was developed to monitor flight delay metrics, 
 
 ## Key Insights
 
-The analysis identified key flight delay patterns by examining carrier, weather, NAS, late aircraft, and security-related delays over time.
+- Late Aircraft Delay was the largest delay category, contributing approximately 14.56 billion minutes of accumulated delay, followed by Carrier Delay at 13.35 billion minutes.
 
-These findings provide an overview of how different delay causes contributed to overall flight delay patterns and airline performance.
+- WN recorded the highest total accumulated arrival delay at approximately 6.2 billion minutes, followed by AA and OO.
+
+- Carrier delay percentage generally ranged between approximately 33% and 44% during 2017–2019, before reaching a peak of 56.3% in 2020.
+
+- Weather and security-related delays contributed substantially less to total accumulated delay compared with late aircraft, carrier, and NAS-related delays.
 
 ## Project Outcome
 
