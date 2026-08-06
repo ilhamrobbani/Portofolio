@@ -57,6 +57,8 @@ The analysis focused on:
 
 An interactive Tableau dashboard was developed to monitor flight delay metrics, carrier performance, and geographical delay distributions across the United States.
 
+![United States Flight Delay Dashboard](Dashboard_Visualization_Flight_Delay_Data_Analysis.PNG)
+
 ## Key Insights
 
 The analysis identified key flight delay patterns by examining carrier, weather, NAS, late aircraft, and security-related delays over time.
