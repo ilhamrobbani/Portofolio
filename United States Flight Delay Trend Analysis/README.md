@@ -22,9 +22,12 @@ Understanding flight delay patterns can help identify major delay causes and pro
 
 ## Dataset
 
-- More than 100,000 flight delay records.
-- Period: 2017–2022.
-- Location: United States.
+The dataset used in this project was obtained from Kaggle.
+
+- **Source:** [Kaggle - Flight Delay from January 2017 - July 2022](https://www.kaggle.com/datasets/jawadkhattak/us-flight-delay-from-january-2017-july-2022)
+- **Period:** January 2017 – July 2022
+- **Location:** United States
+- **Records:** 100,000+
 
 ## Tools
 
