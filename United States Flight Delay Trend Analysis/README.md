@@ -61,8 +61,6 @@ An interactive Tableau dashboard was developed to monitor flight delay metrics, 
 
 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/ilham.robbani/viz/Book1_17848026219340/UnitedStatesFlightDelay?publish=yes)
 
-![United States Flight Delay Dashboard](Dashboard_Visualization_Flight_Delay_Data_Analysis.PNG)
-
 ## Key Insights
 
 - Late Aircraft Delay was the largest delay category, contributing approximately 14.56 billion minutes of accumulated delay, followed by Carrier Delay at 13.35 billion minutes.
