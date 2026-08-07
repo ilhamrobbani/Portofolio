@@ -90,7 +90,7 @@ I am a Data Analyst Fresh Graduate with an Informatics Engineering background wh
 
 * Email: [robbani.ilham20@gmail.com](mailto:robbani.ilham20@gmail.com)
 * LinkedIn: [linkedin.com/in/ilhamrobbani](https://www.linkedin.com/in/ilhamrobbani/)
-* GitHub: [github.com/ilhamrobbani/ilhamrobbani-portofolio-project](https://github.com/ilhamrobbani/Portofolio-Project)
+* GitHub: [github.com/ilhamrobbani/Portofolio](https://github.com/ilhamrobbani/Portofolio)
 
 ---
 
